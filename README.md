@@ -47,6 +47,4 @@ The dataset includes information about:
 
 - Evaluated absenteeism trends affecting productivity
 
-into a strong portfolio description
 
-Since you're aiming for data analytics roles, I can tailor it strategically.
